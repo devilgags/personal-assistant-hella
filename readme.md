@@ -17,7 +17,3 @@ Following configurations needed to be done while creating a lambda
 1. [Intents JSON](extras/alexa skill kit data/intent.json)
 2. [Utterances](extras/alexa skill kit data/utterances)
 3. [Custom Data Types](extras/alexa skill kit data/custom-data-types)
-
-### Conceptual Diagram
-This high level diagram shows how the complete environment look like:
-![Conceptual Diagram](extras/images/concept-diagram.png)
